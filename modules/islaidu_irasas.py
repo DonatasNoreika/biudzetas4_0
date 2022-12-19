@@ -1,5 +1,5 @@
-
 from modules.irasas import Irasas
+
 
 class IslaiduIrasas(Irasas):
     def __init__(self, suma, atsiskaitymo_budas, isigyta_preke_paslauga, info):
